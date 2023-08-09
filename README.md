@@ -9,4 +9,8 @@ the aim of this script is to make it more easly to mofify the websites on [Retro
 
 the code is avaliable on my [Gitea](https://git.nononymous.fr/nononymous/Retroweb_webpage_generator) instance
 
-if you have any questions about it, like things i could add, modify, remove of if you have trouble or general questions about it, you can ask them on this repo (only used for issues), fediverse or via email (both avaliable on my profile)
+if you have any questions about it, like things i could add, modify, remove of if you have trouble or general questions about it, you can ask them on my [Gitea](https://git.nononymous.fr/nononymous/Retroweb_webpage_generator), this repo (only used for issues), fediverse (on my profile) or via email (both avaliable on my profile)
+
+## how to make a issue
+
+use the template in the pinned issue, thanks ^^
